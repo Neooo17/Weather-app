@@ -24,7 +24,7 @@ If you make a mistake with your city name, you will be alerted.
 The Weather App is a simple web application that allows users to check the weather conditions of different cities. It provides real-time weather data, including temperature, humidity, and wind speed. Users can search for a specific city or use their current location to get weather updates.
 
 ## Demo
-You can try the Weather App here: [Live Demo](#)
+You can try the Weather App here: [Live Demo](https://neooo17.github.io/Weather-app/)
 
 ### Screenshot
 
